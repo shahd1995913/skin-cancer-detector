@@ -27,9 +27,9 @@
 
  ## 6. Evaluation of the model and obtaining accuracy, and the accuracy was 90.
 
- ## 7. save the Model.
+ ## 7. save the Model.  "model.tflite"
 
- ## 8. Integrate the form with the Android application.
+ ## 8. Integrate  "model.tflite"the form with the Android application.
 
  ## 9. Building the application and the front end in Android.
  
