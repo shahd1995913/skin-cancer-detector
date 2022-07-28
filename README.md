@@ -8,7 +8,7 @@
 
 ## 2. Reading is a database that contains a set of images. 
 
-### Sample of data in dataset  , There is 4 Catogry of Skin Cancer.
+### Sample of data in dataset  , There is 4 Categories of Skin Cancer.
 ### A. High Risk: Melanoma
 ### B. low Risk: Nevus
 ### C. Median Risk: Squamous cell carcinoma
