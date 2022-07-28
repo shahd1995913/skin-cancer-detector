@@ -1,5 +1,0 @@
-{
-    "terminal.integrated.commandsToSkipShell": [
-        "vscode-cmd-aliases.execute"
-    ]
-}
