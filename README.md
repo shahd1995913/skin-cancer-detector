@@ -22,7 +22,7 @@
 
 ## 4. normalization on the images and resize to 224.
 
-## 5.  Using a deep learning system called Model on an image database.
+## 5.  Using a deep learning system called   CNN Model on an image database.
 
 
  ## 6. Evaluation of the model and obtaining accuracy, and the accuracy was 90.
