@@ -2,6 +2,9 @@
 **An application that uses artificial intelligence in diagnosing skin cancer by analyzing the images that are entered. Four types of skin cancers were selected and trained on a deep learning model that has the ability to recognize various skin diseases with more than 90% accuracy.**
 
 
+https://www.jordannews.jo/Section-109/News/Amazon-announces-winners-of-teckathon-event-21227 
+
+
 # Steps :
 
 ## 1. Important Packeges in Python.
@@ -36,3 +39,28 @@
 ## 10. Implementation and testing of the application and the results were accurate.
 
 https://user-images.githubusercontent.com/83476666/181552762-141d1060-d46f-4128-b39f-87c7388edfff.mp4
+
+
+
+
+
+
+
+
+## 📰 Amazon Teckathon 2022 Winners
+
+In August 2022, Amazon announced the winners of its second edition of the Amazon Teckathon, a three-day virtual hackathon for university students in Jordan. The event aimed to develop creative software solutions with real-life impact to improve people's everyday lives.
+
+### 🏆 Top Winners:
+
+**Third Place**: Shahed Nabeel  Mohammad Alkhateeb (Yarmouk University) – *"Detector"*: An AI application to detect skin cancer by analyzing images.
+
+For more details, read the full article: [Amazon announces winners of teckathon event](https://www.jordannews.jo/Section-109/News/Amazon-announces-winners-of-teckathon-event-21227)
+
+
+![20229191084_2_11994](https://github.com/user-attachments/assets/63d3c030-022f-4993-886d-5017e907a973)
+
+
+
+
+
