@@ -50,7 +50,7 @@ In August 2022, Amazon announced the winners of its second edition of the Amazon
 
 **Third Place**: Shahed Nabeel  Mohammad Alkhateeb (Yarmouk University) – *"Detector"*: An AI application to detect skin cancer by analyzing images.
 
-For more details, read the full article: [Amazon announces winners of teckathon event](https://www.jordannews.jo/Section-109/News/Amazon-announces-winners-of-teckathon-event-21227)
+For more details, read the full article: [Amazon announces winners of teckathon event](https://jordantimes.com/news/local/amazon-reveals-winners-virtual-hackathon-jordan-university-students)
 
 
 ![20229191084_2_11994](https://github.com/user-attachments/assets/63d3c030-022f-4993-886d-5017e907a973)
